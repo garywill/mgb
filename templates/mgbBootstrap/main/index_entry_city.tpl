@@ -1,0 +1,1 @@
+<span>&nbsp;{LANG_FROM}&nbsp;<strong>{ENTRY_CITY}</strong></span>

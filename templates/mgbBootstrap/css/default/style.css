@@ -1,0 +1,38 @@
+/* 
+    Document   : style
+    Created on : 31.05.2013, 20:49:52
+    Author     : RW
+    Description:
+    
+    do not remove the next line
+*/
+@import url('../main.css');
+
+body {
+	background-color: #EBEBEB;
+}
+
+div.container.container-main {
+	background-color: #fff;
+}
+
+div.entry {
+	border: #eee solid 1px;
+	box-shadow: 4px 4px 10px #ddd;
+}
+
+div.messages_header {
+	border-bottom: 1px solid #eee;
+}
+
+img.gravatar {
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+div.infobar {
+	background-color: rgba(238,238,238,0.5);
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}

@@ -1,0 +1,1 @@
+				<button class="btn btn-small" title="{LANG_BBCODE_HELP_FLASH}" onClick="insert('[flash=]', '[/flash]')"><i class="icon-facetime-video"></i></button>

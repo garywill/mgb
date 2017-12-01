@@ -1,0 +1,80 @@
+/* 
+    Document   : style
+    Created on : 31.05.2013, 20:49:52
+    Author     : RW
+    Description:
+
+*/
+body {
+	background-color: #EBEBEB;
+}
+
+div.container.container-main {
+	background-color: #fff;
+	width: 630px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+
+div.entry {
+	border: #eee solid 1px;
+	border-radius: 6px;
+	box-shadow: 4px 4px 10px #ddd;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+div.entry:last-of-type {
+	margin-bottom: 0px;
+}
+
+div.messages_header {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 5px;
+}
+
+img.gravatar {
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+	padding: 4px;
+}
+
+div.messages {
+	word-wrap: break-word;
+}
+
+div.infobar {
+	background-color: rgba(238,238,238,0.5);
+	padding: 3px 4px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.gravatarLeft {
+	display:inline;
+	margin-right: 10px;
+}
+
+div.captcha {
+	margin: 5px;
+}
+
+div.selects {
+	margin-bottom: 15px;
+}
+
+div.smileys {
+	margin-top:15px;
+}
+
+div.announcement {
+	margin-bottom: 15px;
+}
+
+div#recaptcha_area {
+	margin: 0 auto;
+}

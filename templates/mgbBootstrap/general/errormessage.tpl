@@ -1,0 +1,1 @@
+			<div class="alert alert-block alert-error" align="center">{ERRORMESSAGE}</div>
